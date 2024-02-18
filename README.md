@@ -1,6 +1,6 @@
 # AWS Cloud Resume Challenge
 
-<img width="805" text-align="center" alt="Screenshot 2024-02-18 at 10 28 49 AM" src="https://github.com/TrePeezy/aws-cloud-resume-challenge/assets/112181087/85a87b3b-4d80-42fa-b8fd-ce2d73608422">
+<img width="805" alt="Cloud Resume Diagram" src="https://github.com/TrePeezy/aws-cloud-resume-challenge/assets/112181087/85a87b3b-4d80-42fa-b8fd-ce2d73608422">
 
 ## Overview
 
